@@ -1,6 +1,6 @@
 # Car Data Analysis Using Python
 
-This project provides an analysis of car data using Python. It includes data cleaning, visualization and statistical analysis. The data set used is the 'Automobile Dataset' from the UC Irvine Machine Learning Repository.
+This project provides an analysis of car data using Python. It includes data cleaning, visualization and statistical analysis.
 
 It is divided into four main sections:
 
