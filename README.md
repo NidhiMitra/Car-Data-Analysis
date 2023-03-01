@@ -12,6 +12,6 @@ It is divided into four main sections:
 
 4. Conclusion: This section provides a brief summary of what has been learned from the analysis of the data set.
 
-The project was written in Python 3.7, and it uses the following packages: pandas, numpy, matplotlib and seaborn.
+The project was written in Python 3, and it uses the following packages: pandas, numpy, matplotlib and seaborn.
 
 Feel free to explore and use the project for your own learning and experimentation.
