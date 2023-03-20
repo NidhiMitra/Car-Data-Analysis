@@ -15,3 +15,6 @@ It is divided into four main sections:
 The project was written in Python 3, and it uses the following packages: pandas, numpy, matplotlib and seaborn.
 
 Feel free to explore and use the project for your own learning and experimentation.
+
+
+![Car_Dataset_Analysis_SS](https://user-images.githubusercontent.com/94068096/226373219-96e8771b-5371-43e8-9d15-be5651eff76e.png)
